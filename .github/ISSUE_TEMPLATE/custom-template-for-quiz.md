@@ -1,14 +1,14 @@
 ---
 name: Custom template for QUIZ
 about: Describe this issue template's purpose here.
-title: Effective TypeScript Quiz
+title: refactoring Quiz
 labels: QUIZ
 assignees: ""
 ---
 
 # [0장 퀴즈]
 
-## 타입 추론 (아이템 00 ~ 아이템 00)
+## 리팩터링: 첫 번째 예시
 
 아래 마크다운을 복사 붙여넣기해서 코멘트로 퀴즈를 달아주세요 :)
 객관식, 주관식에 상관없이 편하게 만들어주세요!
